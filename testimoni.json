@@ -1,0 +1,26 @@
+[
+  {
+    "nama": "Test User",
+    "jabatan": "Anggota",
+    "foto": "",
+    "isi": "Sangat bagus",
+    "rating": 5,
+    "aktif": true,
+    "urutan": 0,
+    "_id": "99f6d68b2df18f3bef14e66b",
+    "createdAt": "2026-07-13T04:49:48.919Z",
+    "updatedAt": "2026-07-13T04:49:48.919Z"
+  },
+  {
+    "nama": "Udin ",
+    "jabatan": "Mahasiswa Unipi",
+    "foto": "",
+    "isi": "mantep banget diajarin cacing-cacing naga-naga",
+    "rating": 5,
+    "aktif": true,
+    "urutan": 2,
+    "_id": "3a9b3b3c2001353dfeec031b",
+    "createdAt": "2026-08-23T11:51:24.548Z",
+    "updatedAt": "2026-08-23T11:51:24.548Z"
+  }
+]

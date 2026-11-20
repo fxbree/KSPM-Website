@@ -1,0 +1,41 @@
+[
+  {
+    "sejarah": "Kelompok Studi Pasar Modal (KSPM) adalah organisasi mahasiswa yang bergerak di bidang edukasi, penelitian, dan pengembangan terkait pasar modal. KSPM di bawah naungan Galeri Investasi Bursa Efek Indonesia (GI-BEI) yang bekerja sama dengan universitas dan perusahaan sekuritas.",
+    "visi": "Menjadi wadah pengembangan literasi keuangan, pengetahuan, keterampilan, dan minat mahasiswa di bidang pasar modal bukan hanya sekadar menyediakan ruang belajar, tetapi juga membangun ekosistem pembelajaran yang berkesinambungan. Wadah ini diharapkan dapat menjadi sarana strategis bagi mahasiswa untuk mengasah kemampuan analisis, memperluas wawasan, serta meningkatkan kualitas pemahaman mereka terkait dunia investasi dan dinamika pasar modal, baik di tingkat nasional maupun global.\n\nSelain itu, organisasi ini tidak hanya berorientasi pada pengembangan diri anggotanya semata, tetapi juga berusaha memberikan kontribusi nyata kepada civitas akademika dan masyarakat luas. Kontribusi tersebut dapat diwujudkan melalui kegiatan seminar, workshop, simulasi investasi, penelitian, serta berbagai bentuk pengabdian yang relevan dengan dunia pasar modal. Dengan demikian, keberadaan wadah ini diharapkan mampu menjadi jembatan yang menghubungkan antara teori yang diperoleh di bangku kuliah dengan praktik nyata yang ada di lapangan.",
+    "misi": [
+      "Meningkatkan literasi dan inklusi pasar modal di lingkungan kampus dan masyarakat.",
+      "Menyelenggarakan kegiatan edukatif, pelatihan, dan seminar mengenai investasi serta dunia pasar modal.",
+      " Menjalin kerjasama dengan lembaga pasar modal seperti OJK, Bursa Efek Indonesia, dan perusahaan sekuritas.",
+      "Mencetak generasi muda yang cerdas finansial, beretika,  serta profesional dalam bidang pasar modal.",
+      "Menjadi wadah belajar dan berbagi pengetahuan seputar investasi serta instrumen pasar modal.",
+      " Mengembangkan potensi mahasiswa dalam bidang analisis investasi, trading, dan pengelolaan keuangan.",
+      "Mendukung terciptanya mahasiswa yang siap bersaing dalam dunia kerja, khususnya di sektor keuangan dan pasar modal"
+    ],
+    "nilaiOrganisasi": [
+      {
+        "judul": "Integritas",
+        "deskripsi": "Menjunjung tinggi kejujuran dan etika dalam setiap kegiatan",
+        "ikon": "⭐"
+      },
+      {
+        "judul": "Inovasi",
+        "deskripsi": "Selalu berinovasi dalam pengembangan program dan kegiatan",
+        "ikon": "💡"
+      },
+      {
+        "judul": "Kolaborasi",
+        "deskripsi": "Bekerja sama untuk mencapai tujuan bersama",
+        "ikon": "🤝"
+      },
+      {
+        "judul": "Profesionalisme",
+        "deskripsi": "Bertindak secara profesional dalam setiap situasi",
+        "ikon": "🎯"
+      }
+    ],
+    "logoUrl": "",
+    "_id": "b2c237a2e16d8e8a8f77c6ee",
+    "createdAt": "2026-07-13T04:45:18.179Z",
+    "updatedAt": "2026-08-09T09:11:09.562Z"
+  }
+]
